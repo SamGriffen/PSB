@@ -27,7 +27,7 @@ static bool irq_flag = 0;
 //     return;
 // }
 
-// uint8_t check_stat = 0;
+uint8_t check_stat = 0;
 
 int main()
 {
@@ -39,7 +39,7 @@ int main()
     nrf.config(); // Configure NRF24 module
     nrf.tx_mode(); // Set to transmit mode
 
-    // check_stat = nrf.read_reg(REG_CONFIG);
+    check_stat = nrf.read_reg(REG_CONFIG);
 
     /** ADC FUNCTIONALITY **/
     adc_init();
@@ -69,7 +69,7 @@ int main()
             }
 
             // Transmit the sample
-            nrf.send_message(payload, 4);
+            nrf.send_message(payload, 8);
         }
     }
 

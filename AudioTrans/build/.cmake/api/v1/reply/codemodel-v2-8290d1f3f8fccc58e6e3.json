@@ -995,7 +995,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "AudioTrans::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-AudioTrans-Debug-234d94aabc5deef12280.json",
+					"jsonFile" : "target-AudioTrans-Debug-2c38aaae2050855c7fd2.json",
 					"name" : "AudioTrans",
 					"projectIndex" : 0
 				},
@@ -1009,7 +1009,7 @@
 				{
 					"directoryIndex" : 43,
 					"id" : "bs2_default::@bc554eaed616d198a22d",
-					"jsonFile" : "target-bs2_default-Debug-3fbd41cf080c596df9f7.json",
+					"jsonFile" : "target-bs2_default-Debug-3d6d75f97a516a469f5e.json",
 					"name" : "bs2_default",
 					"projectIndex" : 1
 				},
@@ -1033,8 +1033,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans/build",
-		"source" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans"
+		"build" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans/build",
+		"source" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans"
 	},
 	"version" : 
 	{

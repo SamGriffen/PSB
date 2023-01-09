@@ -26,9 +26,9 @@ CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/include/pico/printf.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_base/include/pico.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_base/include/pico/types.h \
- /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans/build/generated/pico_base/pico/version.h \
+ /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans/build/generated/pico_base/pico/version.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
- /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans/build/generated/pico_base/pico/config_autogen.h \
+ /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans/build/generated/pico_base/pico/config_autogen.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/boards/include/boards/pico.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_base/include/pico/error.h \

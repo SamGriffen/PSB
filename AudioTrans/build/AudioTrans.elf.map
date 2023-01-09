@@ -86,7 +86,7 @@ Discarded input sections
                 0x0000000000000000       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_ranges  0x0000000000000000       0x98 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_line    0x0000000000000000      0x528 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
- .debug_str     0x0000000000000000      0x397 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
+ .debug_str     0x0000000000000000      0x39b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .debug_frame   0x0000000000000000       0x90 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj
  .ARM.attributes
@@ -205,7 +205,7 @@ Discarded input sections
  .debug_abbrev  0x0000000000000000       0x12 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
  .debug_aranges
                 0x0000000000000000       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
- .debug_str     0x0000000000000000       0xaa CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
+ .debug_str     0x0000000000000000       0xae CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
  .debug_ranges  0x0000000000000000       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
  .ARM.attributes
                 0x0000000000000000       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj
@@ -268,7 +268,7 @@ Discarded input sections
                 0x0000000000000000       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .debug_ranges  0x0000000000000000      0x148 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .debug_line    0x0000000000000000      0x525 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj
- .debug_str     0x0000000000000000      0x406 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj
+ .debug_str     0x0000000000000000      0x40a CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .debug_frame   0x0000000000000000       0x6c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/timeout_helper.c.obj
  .ARM.attributes
@@ -322,7 +322,7 @@ Discarded input sections
                 0x0000000000000000       0x58 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/sem.c.obj
  .debug_ranges  0x0000000000000000      0x5b0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/sem.c.obj
  .debug_line    0x0000000000000000      0x946 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/sem.c.obj
- .debug_str     0x0000000000000000      0x4e9 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/sem.c.obj
+ .debug_str     0x0000000000000000      0x4ed CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/sem.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/sem.c.obj
  .debug_frame   0x0000000000000000       0xe4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/sem.c.obj
  .ARM.attributes
@@ -379,7 +379,7 @@ Discarded input sections
                 0x0000000000000000       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
  .debug_ranges  0x0000000000000000       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
  .debug_line    0x0000000000000000      0x28c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
- .debug_str     0x0000000000000000      0x2f3 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
+ .debug_str     0x0000000000000000      0x2f7 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
  .debug_frame   0x0000000000000000       0x50 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj
  .ARM.attributes
@@ -404,7 +404,7 @@ Discarded input sections
                 0x0000000000000000       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/datetime.c.obj
  .debug_ranges  0x0000000000000000       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/datetime.c.obj
  .debug_line    0x0000000000000000      0x15b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/datetime.c.obj
- .debug_str     0x0000000000000000      0x232 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/datetime.c.obj
+ .debug_str     0x0000000000000000      0x236 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/datetime.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/datetime.c.obj
  .debug_frame   0x0000000000000000       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/datetime.c.obj
  .ARM.attributes
@@ -459,7 +459,7 @@ Discarded input sections
                 0x0000000000000000       0x70 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/queue.c.obj
  .debug_ranges  0x0000000000000000      0x630 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/queue.c.obj
  .debug_line    0x0000000000000000      0x97e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/queue.c.obj
- .debug_str     0x0000000000000000      0x472 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/queue.c.obj
+ .debug_str     0x0000000000000000      0x476 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/queue.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/queue.c.obj
  .debug_frame   0x0000000000000000      0x12c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/queue.c.obj
  .ARM.attributes
@@ -543,7 +543,7 @@ Discarded input sections
                 0x0000000000000000       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_ranges  0x0000000000000000       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_line    0x0000000000000000      0x2a8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
- .debug_str     0x0000000000000000      0x350 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
+ .debug_str     0x0000000000000000      0x354 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .debug_frame   0x0000000000000000       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_vreg/vreg.c.obj
  .ARM.attributes
@@ -746,7 +746,7 @@ Discarded input sections
                 0x0000000000000000      0x130 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .debug_ranges  0x0000000000000000      0x5e8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .debug_line    0x0000000000000000     0x2c03 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
- .debug_str     0x0000000000000000      0x529 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
+ .debug_str     0x0000000000000000      0x52d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .debug_frame   0x0000000000000000      0x440 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_math.c.obj
  .ARM.attributes
@@ -938,7 +938,7 @@ Discarded input sections
                 0x0000000000000000      0x128 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .debug_ranges  0x0000000000000000      0x568 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .debug_line    0x0000000000000000     0x2759 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
- .debug_str     0x0000000000000000      0x547 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
+ .debug_str     0x0000000000000000      0x54b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .debug_frame   0x0000000000000000      0x3a4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_math.c.obj
  .ARM.attributes
@@ -976,7 +976,7 @@ Discarded input sections
                 0x0000000000000000       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
  .debug_ranges  0x0000000000000000       0x50 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
  .debug_line    0x0000000000000000      0x1d8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
- .debug_str     0x0000000000000000      0x24d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
+ .debug_str     0x0000000000000000      0x251 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
  .debug_frame   0x0000000000000000       0x58 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
  .ARM.attributes
@@ -1004,7 +1004,7 @@ Discarded input sections
                 0x0000000000000000       0x48 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .debug_ranges  0x0000000000000000       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .debug_line    0x0000000000000000      0x215 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
- .debug_str     0x0000000000000000      0x3c9 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
+ .debug_str     0x0000000000000000      0x3cd CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .comment       0x0000000000000000       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .debug_frame   0x0000000000000000       0xa0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj
  .ARM.attributes
@@ -1084,9 +1084,9 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
- .text          0x0000000000000000        0x0 /tmp/cc8WNP3r.o
- .data          0x0000000000000000        0x0 /tmp/cc8WNP3r.o
- .bss           0x0000000000000000        0x0 /tmp/cc8WNP3r.o
+ .text          0x0000000000000000        0x0 /tmp/ccWDWCia.o
+ .data          0x0000000000000000        0x0 /tmp/ccWDWCia.o
+ .bss           0x0000000000000000        0x0 /tmp/ccWDWCia.o
  .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
  .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
  .text          0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-atexit.o)
@@ -1307,7 +1307,7 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
 .boot2          0x0000000010000000      0x100
                 0x0000000010000000                __boot2_start__ = .
  *(.boot2)
- .boot2         0x0000000010000000      0x100 /tmp/cc8WNP3r.o
+ .boot2         0x0000000010000000      0x100 /tmp/ccWDWCia.o
                 0x0000000010000100                __boot2_end__ = .
                 0x0000000000000001                ASSERT (((__boot2_end__ - __boot2_start__) == 0x100), ERROR: Pico second stage bootloader must be 256 bytes in size)
 
@@ -1376,429 +1376,428 @@ LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nof
  .text.main     0x000000001000035c       0xd8 CMakeFiles/AudioTrans.dir/AudioTrans.cpp.obj
                 0x000000001000035c                main
  .text._ZN5NRF24C2EP8spi_insttt
-                0x0000000010000434       0x60 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+                0x0000000010000434       0x64 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
                 0x0000000010000434                NRF24::NRF24(spi_inst*, unsigned short, unsigned short)
                 0x0000000010000434                NRF24::NRF24(spi_inst*, unsigned short, unsigned short)
  .text._ZN5NRF248read_regEh
-                0x0000000010000494       0x54 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
-                0x0000000010000494                NRF24::read_reg(unsigned char)
+                0x0000000010000498       0x54 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+                0x0000000010000498                NRF24::read_reg(unsigned char)
  .text._ZN5NRF249write_regEhPhh
-                0x00000000100004e8       0x5c CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
-                0x00000000100004e8                NRF24::write_reg(unsigned char, unsigned char*, unsigned char)
+                0x00000000100004ec       0x5c CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+                0x00000000100004ec                NRF24::write_reg(unsigned char, unsigned char*, unsigned char)
  .text._ZN5NRF249write_regEhh
-                0x0000000010000544       0x16 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
-                0x0000000010000544                NRF24::write_reg(unsigned char, unsigned char)
- *fill*         0x000000001000055a        0x2 
+                0x0000000010000548       0x16 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+                0x0000000010000548                NRF24::write_reg(unsigned char, unsigned char)
+ *fill*         0x000000001000055e        0x2 
  .text._ZN5NRF246configEv
-                0x000000001000055c       0x74 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
-                0x000000001000055c                NRF24::config()
+                0x0000000010000560       0x74 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+                0x0000000010000560                NRF24::config()
  .text._ZN5NRF247tx_modeEv
-                0x00000000100005d0       0x2c CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
-                0x00000000100005d0                NRF24::tx_mode()
+                0x00000000100005d4       0x2c CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+                0x00000000100005d4                NRF24::tx_mode()
  .text._ZN5NRF2412send_messageEPhh
-                0x00000000100005fc       0x5e CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
-                0x00000000100005fc                NRF24::send_message(unsigned char*, unsigned char)
- *fill*         0x000000001000065a        0x2 
+                0x0000000010000600       0x5e CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+                0x0000000010000600                NRF24::send_message(unsigned char*, unsigned char)
+ *fill*         0x000000001000065e        0x2 
  .text.gpio_set_function
-                0x000000001000065c       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                0x000000001000065c                gpio_set_function
+                0x0000000010000660       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x0000000010000660                gpio_set_function
  .text.gpio_set_pulls
-                0x000000001000068c       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                0x000000001000068c                gpio_set_pulls
+                0x0000000010000690       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x0000000010000690                gpio_set_pulls
  .text.gpio_set_input_enabled
-                0x00000000100006c0       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                0x00000000100006c0                gpio_set_input_enabled
+                0x00000000100006c4       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x00000000100006c4                gpio_set_input_enabled
  .text.gpio_init
-                0x00000000100006f0       0x16 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                0x00000000100006f0                gpio_init
- *fill*         0x0000000010000706        0x2 
+                0x00000000100006f4       0x16 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                0x00000000100006f4                gpio_init
+ *fill*         0x000000001000070a        0x2 
  .text.hw_claim_lock
-                0x0000000010000708       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                0x0000000010000708                hw_claim_lock
+                0x000000001000070c       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                0x000000001000070c                hw_claim_lock
  .text.hw_claim_unlock
-                0x0000000010000720       0x14 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                0x0000000010000720                hw_claim_unlock
+                0x0000000010000724       0x14 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                0x0000000010000724                hw_claim_unlock
  .text.hw_claim_or_assert
-                0x0000000010000734       0x32 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                0x0000000010000734                hw_claim_or_assert
- *fill*         0x0000000010000766        0x2 
+                0x0000000010000738       0x32 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                0x0000000010000738                hw_claim_or_assert
+ *fill*         0x000000001000076a        0x2 
  .text.running_on_fpga
-                0x0000000010000768       0x14 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
-                0x0000000010000768                running_on_fpga
+                0x000000001000076c       0x14 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+                0x000000001000076c                running_on_fpga
  .text.spin_locks_reset
-                0x000000001000077c       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x000000001000077c                spin_locks_reset
+                0x0000000010000780       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x0000000010000780                spin_locks_reset
  .text.next_striped_spin_lock_num
-                0x000000001000079c       0x1c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                0x000000001000079c                next_striped_spin_lock_num
+                0x00000000100007a0       0x1c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                0x00000000100007a0                next_striped_spin_lock_num
  .text.uart_set_baudrate
-                0x00000000100007b8       0x5c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
-                0x00000000100007b8                uart_set_baudrate
+                0x00000000100007bc       0x5c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
+                0x00000000100007bc                uart_set_baudrate
  .text.uart_set_translate_crlf
-                0x0000000010000814       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
-                0x0000000010000814                uart_set_translate_crlf
+                0x0000000010000818       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
+                0x0000000010000818                uart_set_translate_crlf
  .text.uart_init
-                0x000000001000083c       0x80 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
-                0x000000001000083c                uart_init
+                0x0000000010000840       0x80 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
+                0x0000000010000840                uart_init
  .text.alarm_pool_post_alloc_init
-                0x00000000100008bc       0x40 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000100008c0       0x40 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
  .text.sleep_until_callback
-                0x00000000100008fc       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000900       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
  .text.timer_pool_entry_comparator
-                0x000000001000092c       0x7c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
-                0x000000001000092c                timer_pool_entry_comparator
+                0x0000000010000930       0x7c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000930                timer_pool_entry_comparator
  .text.ph_add_child_node
-                0x00000000100009a8       0xa4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000100009ac       0xa4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
  .text.ph_merge_nodes
-                0x0000000010000a4c       0x3e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x0000000010000a8a        0x2 
+                0x0000000010000a50       0x3e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+ *fill*         0x0000000010000a8e        0x2 
  .text.add_alarm_under_lock
-                0x0000000010000a8c      0x174 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000a90      0x174 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_alarm_callback
-                0x0000000010000c00      0x328 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000c04      0x328 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_init_default
-                0x0000000010000f28       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010000f28                alarm_pool_init_default
+                0x0000000010000f2c       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000f2c                alarm_pool_init_default
  .text.alarm_pool_get_default
-                0x0000000010000f60       0x2c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010000f60                alarm_pool_get_default
+                0x0000000010000f64       0x2c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000f64                alarm_pool_get_default
  .text.alarm_pool_add_alarm_at
-                0x0000000010000f8c      0x170 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010000f8c                alarm_pool_add_alarm_at
+                0x0000000010000f90      0x170 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010000f90                alarm_pool_add_alarm_at
  .text.sleep_until
-                0x00000000100010fc       0xfc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
-                0x00000000100010fc                sleep_until
+                0x0000000010001100       0xfc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010001100                sleep_until
  .text.sleep_us
-                0x00000000100011f8       0x58 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
-                0x00000000100011f8                sleep_us
+                0x00000000100011fc       0x58 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x00000000100011fc                sleep_us
  .text.sleep_ms
-                0x0000000010001250       0x14 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
-                0x0000000010001250                sleep_ms
+                0x0000000010001254       0x14 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                0x0000000010001254                sleep_ms
  .text.hardware_alarm_irq_handler
-                0x0000000010001264       0x8c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000010001268       0x8c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .text.hardware_alarm_claim
-                0x00000000100012f0       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x00000000100012f0                hardware_alarm_claim
+                0x00000000100012f4       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000100012f4                hardware_alarm_claim
  .text.time_us_64
-                0x0000000010001308       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x0000000010001308                time_us_64
+                0x000000001000130c       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x000000001000130c                time_us_64
  .text.busy_wait_until
-                0x0000000010001320       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x0000000010001320                busy_wait_until
+                0x0000000010001324       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x0000000010001324                busy_wait_until
  .text.hardware_alarm_set_callback
-                0x0000000010001348       0x90 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x0000000010001348                hardware_alarm_set_callback
+                0x000000001000134c       0x90 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x000000001000134c                hardware_alarm_set_callback
  .text.hardware_alarm_set_target
-                0x00000000100013d8       0xe8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x00000000100013d8                hardware_alarm_set_target
+                0x00000000100013dc       0xe8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000100013dc                hardware_alarm_set_target
  .text.hardware_alarm_cancel
-                0x00000000100014c0       0x40 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                0x00000000100014c0                hardware_alarm_cancel
+                0x00000000100014c4       0x40 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                0x00000000100014c4                hardware_alarm_cancel
  .text.lock_init
-                0x0000000010001500       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj
-                0x0000000010001500                lock_init
+                0x0000000010001504       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj
+                0x0000000010001504                lock_init
  .text.mutex_init
-                0x0000000010001510       0x1a CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
-                0x0000000010001510                mutex_init
+                0x0000000010001514       0x1a CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
+                0x0000000010001514                mutex_init
  .text.recursive_mutex_init
-                0x000000001000152a       0x1e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
-                0x000000001000152a                recursive_mutex_init
+                0x000000001000152e       0x1e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
+                0x000000001000152e                recursive_mutex_init
  .text.ph_add_child_node
-                0x0000000010001548       0xa4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x000000001000154c       0xa4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
  .text.ph_merge_nodes
-                0x00000000100015ec       0x3e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
- *fill*         0x000000001000162a        0x2 
+                0x00000000100015f0       0x3e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+ *fill*         0x000000001000162e        0x2 
  .text.ph_clear
-                0x000000001000162c       0x70 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x000000001000162c                ph_clear
+                0x0000000010001630       0x70 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x0000000010001630                ph_clear
  .text.ph_post_alloc_init
-                0x000000001000169c        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x000000001000169c                ph_post_alloc_init
- *fill*         0x00000000100016aa        0x2 
+                0x00000000100016a0        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x00000000100016a0                ph_post_alloc_init
+ *fill*         0x00000000100016ae        0x2 
  .text.ph_merge_two_pass
-                0x00000000100016ac       0xa8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x00000000100016ac                ph_merge_two_pass
+                0x00000000100016b0       0xa8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x00000000100016b0                ph_merge_two_pass
  .text.ph_remove_any_head
-                0x0000000010001754      0x108 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x0000000010001758      0x108 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
  .text.ph_remove_head
-                0x000000001000185c       0x14 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x000000001000185c                ph_remove_head
+                0x0000000010001860       0x14 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x0000000010001860                ph_remove_head
  .text.ph_remove_and_free_node
-                0x0000000010001870       0xf8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
-                0x0000000010001870                ph_remove_and_free_node
- .text._exit    0x0000000010001968        0x4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x0000000010001968                _exit
- .text.exit     0x000000001000196c        0x6 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x000000001000196c                exit
- *fill*         0x0000000010001972        0x2 
+                0x0000000010001874       0xf8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+                0x0000000010001874                ph_remove_and_free_node
+ .text._exit    0x000000001000196c        0x4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x000000001000196c                _exit
+ .text.exit     0x0000000010001970        0x6 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001970                exit
+ *fill*         0x0000000010001976        0x2 
  .text.__assert_func
-                0x0000000010001974       0x3c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x0000000010001974                __assert_func
+                0x0000000010001978       0x3c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001978                __assert_func
  .text.runtime_init
-                0x00000000100019b0       0xf8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x00000000100019b0                runtime_init
- .text.panic    0x0000000010001aa8       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                0x0000000010001aa8                panic
+                0x00000000100019b4       0xf8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x00000000100019b4                runtime_init
+ .text.panic    0x0000000010001aac       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                0x0000000010001aac                panic
  .text.clock_configure
-                0x0000000010001ad8      0x104 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                0x0000000010001ad8                clock_configure
+                0x0000000010001adc      0x104 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x0000000010001adc                clock_configure
  .text.clocks_init
-                0x0000000010001bdc      0x100 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                0x0000000010001bdc                clocks_init
+                0x0000000010001be0      0x100 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x0000000010001be0                clocks_init
  .text.clock_get_hz
-                0x0000000010001cdc        0xc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                0x0000000010001cdc                clock_get_hz
+                0x0000000010001ce0        0xc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                0x0000000010001ce0                clock_get_hz
  .text.set_raw_irq_handler_and_unlock
-                0x0000000010001ce8       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001cec       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
  .text.make_branch
-                0x0000000010001d10       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001d14       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
  .text.insert_branch_and_link
-                0x0000000010001d44       0x40 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001d48       0x40 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
  .text.irq_is_enabled
-                0x0000000010001d84       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010001d84                irq_is_enabled
+                0x0000000010001d88       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001d88                irq_is_enabled
  .text.irq_set_mask_enabled
-                0x0000000010001d9c       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010001d9c                irq_set_mask_enabled
+                0x0000000010001da0       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001da0                irq_set_mask_enabled
  .text.irq_set_enabled
-                0x0000000010001dbc        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010001dbc                irq_set_enabled
- *fill*         0x0000000010001dca        0x2 
+                0x0000000010001dc0        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001dc0                irq_set_enabled
+ *fill*         0x0000000010001dce        0x2 
  .text.irq_get_vtable_handler
-                0x0000000010001dcc       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010001dcc                irq_get_vtable_handler
+                0x0000000010001dd0       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001dd0                irq_get_vtable_handler
  .text.irq_set_exclusive_handler
-                0x0000000010001ddc       0x54 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010001ddc                irq_set_exclusive_handler
+                0x0000000010001de0       0x54 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001de0                irq_set_exclusive_handler
  .text.irq_remove_handler
-                0x0000000010001e30      0x1ac CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010001e30                irq_remove_handler
+                0x0000000010001e34      0x1ac CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001e34                irq_remove_handler
  .text.irq_add_tail_to_free_list
-                0x0000000010001fdc       0xf0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x0000000010001fdc                irq_add_tail_to_free_list
+                0x0000000010001fe0       0xf0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x0000000010001fe0                irq_add_tail_to_free_list
  .text.irq_init_priorities
-                0x00000000100020cc       0x1c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                0x00000000100020cc                irq_init_priorities
+                0x00000000100020d0       0x1c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                0x00000000100020d0                irq_init_priorities
  .text.pll_init
-                0x00000000100020e8      0x118 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
-                0x00000000100020e8                pll_init
+                0x00000000100020ec      0x118 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+                0x00000000100020ec                pll_init
  .text.watchdog_start_tick
-                0x0000000010002200       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
-                0x0000000010002200                watchdog_start_tick
+                0x0000000010002204       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                0x0000000010002204                watchdog_start_tick
  .text.xosc_init
-                0x0000000010002210       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
-                0x0000000010002210                xosc_init
+                0x0000000010002214       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+                0x0000000010002214                xosc_init
  .text._out_null
-                0x0000000010002238        0x2 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x000000001000223c        0x2 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._out_fct
-                0x000000001000223a        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .text._atoi    0x0000000010002248       0x24 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x000000001000223e        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .text._atoi    0x000000001000224c       0x24 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._out_rev
-                0x000000001000226c       0xae CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010002270       0xae CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._ntoa_format
-                0x000000001000231a      0x112 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x000000001000231e      0x112 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._ntoa_long
-                0x000000001000242c       0xbc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010002430       0xbc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._ntoa_long_long
-                0x00000000100024e8       0xe2 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- *fill*         0x00000000100025ca        0x2 
- .text._etoa    0x00000000100025cc      0x414 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .text._ftoa    0x00000000100029e0      0x354 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x00000000100024ec       0xe2 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ *fill*         0x00000000100025ce        0x2 
+ .text._etoa    0x00000000100025d0      0x414 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .text._ftoa    0x00000000100029e4      0x354 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._vsnprintf
-                0x0000000010002d34      0x624 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x0000000010002d38      0x624 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text.vfctprintf
-                0x0000000010003358       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
-                0x0000000010003358                vfctprintf
- .text          0x0000000010003378       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+                0x000000001000335c       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                0x000000001000335c                vfctprintf
+ .text          0x000000001000337c       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
  .text.rom_func_lookup
-                0x0000000010003388       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x0000000010003388                rom_func_lookup
+                0x000000001000338c       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x000000001000338c                rom_func_lookup
  .text.rom_data_lookup
-                0x0000000010003398       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x0000000010003398                rom_data_lookup
+                0x000000001000339c       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x000000001000339c                rom_data_lookup
  .text.rom_funcs_lookup
-                0x00000000100033a8       0x36 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                0x00000000100033a8                rom_funcs_lookup
- *fill*         0x00000000100033de        0x2 
+                0x00000000100033ac       0x36 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                0x00000000100033ac                rom_funcs_lookup
+ *fill*         0x00000000100033e2        0x2 
  .text.__wrap___aeabi_idiv
-                0x00000000100033e0       0x50 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x00000000100033e0                __wrap___aeabi_idivmod
-                0x00000000100033e0                divmod_s32s32
-                0x00000000100033e0                div_s32s32
-                0x00000000100033e0                __wrap___aeabi_idiv
-                0x00000000100033e8                divmod_s32s32_unsafe
-                0x0000000010003414                divmod_s32s32_savestate
+                0x00000000100033e4       0x50 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x00000000100033e4                __wrap___aeabi_idivmod
+                0x00000000100033e4                divmod_s32s32
+                0x00000000100033e4                div_s32s32
+                0x00000000100033e4                __wrap___aeabi_idiv
+                0x00000000100033ec                divmod_s32s32_unsafe
+                0x0000000010003418                divmod_s32s32_savestate
  .text.__wrap___aeabi_uidiv
-                0x0000000010003430       0x4c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x0000000010003430                __wrap___aeabi_uidiv
-                0x0000000010003430                __wrap___aeabi_uidivmod
-                0x0000000010003430                div_u32u32
-                0x0000000010003430                divmod_u32u32
-                0x0000000010003438                divmod_u32u32_unsafe
-                0x0000000010003460                divmod_u32u32_savestate
+                0x0000000010003434       0x4c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x0000000010003434                __wrap___aeabi_uidiv
+                0x0000000010003434                __wrap___aeabi_uidivmod
+                0x0000000010003434                div_u32u32
+                0x0000000010003434                divmod_u32u32
+                0x000000001000343c                divmod_u32u32_unsafe
+                0x0000000010003464                divmod_u32u32_savestate
  .text.__wrap___aeabi_ldiv
-                0x000000001000347c      0x434 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                0x000000001000347c                div_s64s64
-                0x000000001000347c                divmod_s64s64
-                0x000000001000347c                __wrap___aeabi_ldivmod
-                0x00000000100034b4                div_u64u64
-                0x00000000100034b4                divmod_u64u64
-                0x00000000100034b4                __wrap___aeabi_uldivmod
-                0x00000000100034c4                divmod_u64u64_savestate
-                0x00000000100034ec                divmod_s64s64_unsafe
-                0x0000000010003574                divmod_u64u64_unsafe
+                0x0000000010003480      0x434 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                0x0000000010003480                div_s64s64
+                0x0000000010003480                divmod_s64s64
+                0x0000000010003480                __wrap___aeabi_ldivmod
+                0x00000000100034b8                div_u64u64
+                0x00000000100034b8                divmod_u64u64
+                0x00000000100034b8                __wrap___aeabi_uldivmod
+                0x00000000100034c8                divmod_u64u64_savestate
+                0x00000000100034f0                divmod_s64s64_unsafe
+                0x0000000010003578                divmod_u64u64_unsafe
  .text.__wrap___aeabi_darithmetic
-                0x00000000100038b0       0x80 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x00000000100038b0                __wrap___aeabi_drsub
-                0x00000000100038b6                __wrap___aeabi_dsub
-                0x00000000100038c8                __wrap___aeabi_dadd
-                0x00000000100038da                __wrap___aeabi_ddiv
-                0x0000000010003916                __wrap___aeabi_dmul
+                0x00000000100038b4       0x80 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x00000000100038b4                __wrap___aeabi_drsub
+                0x00000000100038ba                __wrap___aeabi_dsub
+                0x00000000100038cc                __wrap___aeabi_dadd
+                0x00000000100038de                __wrap___aeabi_ddiv
+                0x000000001000391a                __wrap___aeabi_dmul
  .text.__wrap___aeabi_cdcmple
-                0x0000000010003930       0x6c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003930                __wrap___aeabi_cdrcmple
-                0x0000000010003940                __wrap___aeabi_cdcmple
-                0x0000000010003940                __wrap___aeabi_cdcmpeq
+                0x0000000010003934       0x6c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003934                __wrap___aeabi_cdrcmple
+                0x0000000010003944                __wrap___aeabi_cdcmple
+                0x0000000010003944                __wrap___aeabi_cdcmpeq
  .text.__wrap___aeabi_dcmplt
-                0x000000001000399c        0xc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x000000001000399c                __wrap___aeabi_dcmplt
+                0x00000000100039a0        0xc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x00000000100039a0                __wrap___aeabi_dcmplt
  .text.__wrap___aeabi_dcmple
-                0x00000000100039a8       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x00000000100039a8                __wrap___aeabi_dcmple
+                0x00000000100039ac       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x00000000100039ac                __wrap___aeabi_dcmple
  .text.__wrap___aeabi_dcmpge
-                0x00000000100039b8       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x00000000100039b8                __wrap___aeabi_dcmpge
+                0x00000000100039bc       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x00000000100039bc                __wrap___aeabi_dcmpge
  .text.__wrap___aeabi_dcmpgt
-                0x00000000100039c8        0xa CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x00000000100039c8                __wrap___aeabi_dcmpgt
+                0x00000000100039cc        0xa CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x00000000100039cc                __wrap___aeabi_dcmpgt
  .text.__wrap___aeabi_dcmpun
-                0x00000000100039d2       0x1c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x00000000100039d2                __wrap___aeabi_dcmpun
- *fill*         0x00000000100039ee        0x2 
+                0x00000000100039d6       0x1c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x00000000100039d6                __wrap___aeabi_dcmpun
+ *fill*         0x00000000100039f2        0x2 
  .text.__wrap___aeabi_i2d
-                0x00000000100039f0       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x00000000100039f0                __wrap___aeabi_ui2d
-                0x00000000100039f8                __wrap___aeabi_i2d
+                0x00000000100039f4       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x00000000100039f4                __wrap___aeabi_ui2d
+                0x00000000100039fc                __wrap___aeabi_i2d
  .text.__wrap___aeabi_d2iz
-                0x0000000010003a28       0x48 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003a28                __wrap___aeabi_d2iz
-                0x0000000010003a28                double2int_z
+                0x0000000010003a2c       0x48 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003a2c                __wrap___aeabi_d2iz
+                0x0000000010003a2c                double2int_z
  .text.__wrap___aeabi_d2uiz
-                0x0000000010003a70       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                0x0000000010003a70                double2uint
-                0x0000000010003a70                __wrap___aeabi_d2uiz
+                0x0000000010003a74       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+                0x0000000010003a74                double2uint
+                0x0000000010003a74                __wrap___aeabi_d2uiz
  .text.__aeabi_double_init
-                0x0000000010003a88       0xc8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
-                0x0000000010003a88                __aeabi_double_init
+                0x0000000010003a8c       0xc8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                0x0000000010003a8c                __aeabi_double_init
  .text.double_table_shim_on_use_helper
-                0x0000000010003b50       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003b50                double_table_shim_on_use_helper
+                0x0000000010003b54       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010003b54                double_table_shim_on_use_helper
  .text.__wrap___aeabi_dsub
-                0x0000000010003b84       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003b84                drsub_shim
-                0x0000000010003b8a                dsub_shim
+                0x0000000010003b88       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010003b88                drsub_shim
+                0x0000000010003b8e                dsub_shim
  .text.dadd_shim
-                0x0000000010003b94      0x15c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003b94                dadd_shim
+                0x0000000010003b98      0x15c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010003b98                dadd_shim
  .text.dmul_shim
-                0x0000000010003cf0      0x15c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003cf0                dmul_shim
+                0x0000000010003cf4      0x15c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010003cf4                dmul_shim
  .text.ddiv_shim
-                0x0000000010003e4c      0x1b0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003e4c                ddiv_shim
+                0x0000000010003e50      0x1b0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010003e50                ddiv_shim
  .text.double2uint_shim
-                0x0000000010003ffc        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x0000000010003ffc                double2uint_shim
-                0x0000000010003ffe                double2ufix_shim
- *fill*         0x000000001000400a        0x2 
+                0x0000000010004000        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004000                double2uint_shim
+                0x0000000010004002                double2ufix_shim
+ *fill*         0x000000001000400e        0x2 
  .text.double2uint64_shim
-                0x000000001000400c       0x70 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x000000001000400c                double2uint64_shim
-                0x000000001000400e                double2ufix64_shim
-                0x000000001000402e                d2fix_a
+                0x0000000010004010       0x70 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004010                double2uint64_shim
+                0x0000000010004012                double2ufix64_shim
+                0x0000000010004032                d2fix_a
  .text.dunpacks
-                0x000000001000407c       0x3c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
-                0x000000001000407c                dunpacks
+                0x0000000010004080       0x3c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                0x0000000010004080                dunpacks
  .text.__aeabi_lmul
-                0x00000000100040b8       0x32 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
-                0x00000000100040b8                __wrap___aeabi_lmul
- *fill*         0x00000000100040ea        0x2 
+                0x00000000100040bc       0x32 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+                0x00000000100040bc                __wrap___aeabi_lmul
+ *fill*         0x00000000100040ee        0x2 
  .text.__aeabi_float_init
-                0x00000000100040ec       0xfc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
-                0x00000000100040ec                __aeabi_float_init
+                0x00000000100040f0       0xfc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+                0x00000000100040f0                __aeabi_float_init
  .text.float_table_shim_on_use_helper
-                0x00000000100041e8       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
-                0x00000000100041e8                float_table_shim_on_use_helper
- .text          0x000000001000421c       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x000000001000421c                __aeabi_mem_init
- .text.memset   0x000000001000422c        0xc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x000000001000422c                __wrap_memset
- .text.memcpy   0x0000000010004238        0xc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
-                0x0000000010004238                __wrap___aeabi_memcpy
-                0x0000000010004238                __wrap_memcpy
+                0x00000000100041ec       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+                0x00000000100041ec                float_table_shim_on_use_helper
+ .text          0x0000000010004220       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x0000000010004220                __aeabi_mem_init
+ .text.memset   0x0000000010004230        0xc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x0000000010004230                __wrap_memset
+ .text.memcpy   0x000000001000423c        0xc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                0x000000001000423c                __wrap___aeabi_memcpy
+                0x000000001000423c                __wrap_memcpy
  .text.stdio_out_chars_no_crlf
-                0x0000000010004244        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- *fill*         0x0000000010004252        0x2 
+                0x0000000010004248        0xe CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+ *fill*         0x0000000010004256        0x2 
  .text.stdio_out_chars_crlf
-                0x0000000010004254       0x80 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004258       0x80 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_stack_buffer_flush
-                0x00000000100042d4       0x44 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x00000000100042d8       0x44 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_buffered_printer
-                0x0000000010004318       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x000000001000431c       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdout_serialize_begin
-                0x0000000010004338       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004338                stdout_serialize_begin
+                0x000000001000433c       0x30 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x000000001000433c                stdout_serialize_begin
  .text.stdout_serialize_end
-                0x0000000010004368       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004368                stdout_serialize_end
+                0x000000001000436c       0x10 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x000000001000436c                stdout_serialize_end
  .text.stdio_put_string
-                0x0000000010004378       0x98 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x000000001000437c       0x98 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_set_driver_enabled
-                0x0000000010004410       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004410                stdio_set_driver_enabled
+                0x0000000010004414       0x38 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x0000000010004414                stdio_set_driver_enabled
  .text.stdio_flush
-                0x0000000010004448       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004448                stdio_flush
+                0x000000001000444c       0x20 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x000000001000444c                stdio_flush
  .text.__wrap_puts
-                0x0000000010004468       0x1e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004468                __wrap_puts
- *fill*         0x0000000010004486        0x2 
+                0x000000001000446c       0x1e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x000000001000446c                __wrap_puts
+ *fill*         0x000000001000448a        0x2 
  .text.__wrap_vprintf
-                0x0000000010004488       0x44 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x0000000010004488                __wrap_vprintf
+                0x000000001000448c       0x44 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x000000001000448c                __wrap_vprintf
  .text.__wrap_printf
-                0x00000000100044cc       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x00000000100044cc                __wrap_printf
+                0x00000000100044d0       0x18 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x00000000100044d0                __wrap_printf
  .text.stdio_init_all
-                0x00000000100044e4        0x8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                0x00000000100044e4                stdio_init_all
+                0x00000000100044e8        0x8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                0x00000000100044e8                stdio_init_all
  .text.stdio_uart_out_chars
-                0x00000000100044ec       0x74 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+                0x00000000100044f0       0x74 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
  .text.stdio_uart_in_chars
-                0x0000000010004560       0x58 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-                0x0000000010004560                stdio_uart_in_chars
+                0x0000000010004564       0x58 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+                0x0000000010004564                stdio_uart_in_chars
  .text.stdio_uart_init_full
-                0x00000000100045b8       0x3c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-                0x00000000100045b8                stdio_uart_init_full
+                0x00000000100045bc       0x3c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+                0x00000000100045bc                stdio_uart_init_full
  .text.stdio_uart_init
-                0x00000000100045f4       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-                0x00000000100045f4                stdio_uart_init
+                0x00000000100045f8       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+                0x00000000100045f8                stdio_uart_init
  .text.spi_set_baudrate
-                0x000000001000461c       0x92 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
-                0x000000001000461c                spi_set_baudrate
- *fill*         0x00000000100046ae        0x2 
+                0x0000000010004620       0x92 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
+                0x0000000010004620                spi_set_baudrate
+ *fill*         0x00000000100046b2        0x2 
  .text.spi_init
-                0x00000000100046b0       0x68 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
-                0x00000000100046b0                spi_init
+                0x00000000100046b4       0x68 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
+                0x00000000100046b4                spi_init
  .text.adc_init
-                0x0000000010004718       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
-                0x0000000010004718                adc_init
- .text          0x000000001000474c       0x5c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-strlen-stub.o)
-                0x000000001000474c                strlen
+                0x000000001000471c       0x34 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+                0x000000001000471c                adc_init
+ .text          0x0000000010004750       0x5c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-strlen-stub.o)
+                0x0000000010004750                strlen
  *(.fini)
- .fini          0x00000000100047a8        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
-                0x00000000100047a8                _fini
- *fill*         0x00000000100047ac        0x4 
+ .fini          0x00000000100047ac        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x00000000100047ac                _fini
  .fini.__stub   0x00000000100047b0       0x70 linker stubs
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
@@ -2301,7 +2300,7 @@ LOAD CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/s
 LOAD CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
 LOAD CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
 LOAD CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
-LOAD /tmp/cc8WNP3r.o
+LOAD /tmp/ccWDWCia.o
 LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libstdc++.a
 LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libm.a
 START GROUP
@@ -2400,7 +2399,7 @@ LOAD linker stubs
  .ARM.attributes
                 0x000000000000061c       0x2c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
  .ARM.attributes
-                0x0000000000000648       0x22 /tmp/cc8WNP3r.o
+                0x0000000000000648       0x22 /tmp/ccWDWCia.o
  .ARM.attributes
                 0x000000000000066a       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
  .ARM.attributes
@@ -2441,45 +2440,45 @@ LOAD linker stubs
  .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-strlen-stub.o)
  .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
 
-.debug_info     0x0000000000000000    0x16855
+.debug_info     0x0000000000000000    0x16856
  .debug_info    0x0000000000000000      0xb0b CMakeFiles/AudioTrans.dir/AudioTrans.cpp.obj
- .debug_info    0x0000000000000b0b     0x17ec CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
- .debug_info    0x00000000000022f7     0x1479 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
- .debug_info    0x0000000000003770      0x6a3 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
- .debug_info    0x0000000000003e13      0x1cb CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
- .debug_info    0x0000000000003fde      0x576 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
- .debug_info    0x0000000000004554      0xb4d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
- .debug_info    0x00000000000050a1     0x3aff CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
- .debug_info    0x0000000000008ba0     0x10f8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- .debug_info    0x0000000000009c98      0x198 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj
- .debug_info    0x0000000000009e30     0x1ff2 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
- .debug_info    0x000000000000be22     0x120c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
- .debug_info    0x000000000000d02e      0xa87 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
- .debug_info    0x000000000000dab5      0xf3c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
- .debug_info    0x000000000000e9f1     0x1920 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- .debug_info    0x0000000000010311      0x503 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
- .debug_info    0x0000000000010814      0x4ee CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
- .debug_info    0x0000000000010d02      0x1c0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
- .debug_info    0x0000000000010ec2     0x1a47 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .debug_info    0x0000000000012909       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
- .debug_info    0x000000000001292b      0x258 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
- .debug_info    0x0000000000012b83       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
- .debug_info    0x0000000000012ba5       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
- .debug_info    0x0000000000012bc7      0x2a1 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
- .debug_info    0x0000000000012e68       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .debug_info    0x0000000000012e8a       0x26 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
- .debug_info    0x0000000000012eb0       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
- .debug_info    0x0000000000012ed2      0x2bb CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
- .debug_info    0x000000000001318d       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
- .debug_info    0x00000000000131af       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
- .debug_info    0x00000000000131d1       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
- .debug_info    0x00000000000131f3      0x2f7 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
- .debug_info    0x00000000000134ea     0x12ed CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- .debug_info    0x00000000000147d7      0xc1d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
- .debug_info    0x00000000000153f4     0x108c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
- .debug_info    0x0000000000016480      0x2c1 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
- .debug_info    0x0000000000016741       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
- .debug_info    0x0000000000016767       0xee /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-strlen-stub.o)
+ .debug_info    0x0000000000000b0b     0x17ed CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+ .debug_info    0x00000000000022f8     0x1479 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+ .debug_info    0x0000000000003771      0x6a3 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+ .debug_info    0x0000000000003e14      0x1cb CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+ .debug_info    0x0000000000003fdf      0x576 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+ .debug_info    0x0000000000004555      0xb4d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
+ .debug_info    0x00000000000050a2     0x3aff CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+ .debug_info    0x0000000000008ba1     0x10f8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+ .debug_info    0x0000000000009c99      0x198 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj
+ .debug_info    0x0000000000009e31     0x1ff2 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
+ .debug_info    0x000000000000be23     0x120c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+ .debug_info    0x000000000000d02f      0xa87 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+ .debug_info    0x000000000000dab6      0xf3c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+ .debug_info    0x000000000000e9f2     0x1920 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+ .debug_info    0x0000000000010312      0x503 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+ .debug_info    0x0000000000010815      0x4ee CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+ .debug_info    0x0000000000010d03      0x1c0 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+ .debug_info    0x0000000000010ec3     0x1a47 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .debug_info    0x000000000001290a       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+ .debug_info    0x000000000001292c      0x258 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+ .debug_info    0x0000000000012b84       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+ .debug_info    0x0000000000012ba6       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+ .debug_info    0x0000000000012bc8      0x2a1 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+ .debug_info    0x0000000000012e69       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+ .debug_info    0x0000000000012e8b       0x26 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+ .debug_info    0x0000000000012eb1       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
+ .debug_info    0x0000000000012ed3      0x2bb CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+ .debug_info    0x000000000001318e       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+ .debug_info    0x00000000000131b0       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+ .debug_info    0x00000000000131d2       0x22 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
+ .debug_info    0x00000000000131f4      0x2f7 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+ .debug_info    0x00000000000134eb     0x12ed CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+ .debug_info    0x00000000000147d8      0xc1d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+ .debug_info    0x00000000000153f5     0x108c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
+ .debug_info    0x0000000000016481      0x2c1 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+ .debug_info    0x0000000000016742       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0000000000016768       0xee /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-strlen-stub.o)
 
 .debug_abbrev   0x0000000000000000     0x4885
  .debug_abbrev  0x0000000000000000      0x30b CMakeFiles/AudioTrans.dir/AudioTrans.cpp.obj
@@ -2664,121 +2663,121 @@ LOAD linker stubs
  .debug_ranges  0x0000000000002f40      0x270 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
  .debug_ranges  0x00000000000031b0       0x28 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
 
-.debug_line     0x0000000000000000     0xf0ce
- .debug_line    0x0000000000000000      0x565 CMakeFiles/AudioTrans.dir/AudioTrans.cpp.obj
- .debug_line    0x0000000000000565      0xa35 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
- .debug_line    0x0000000000000f9a      0x9fa CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
- .debug_line    0x0000000000001994      0x42b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
- .debug_line    0x0000000000001dbf      0x224 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
- .debug_line    0x0000000000001fe3      0x427 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
- .debug_line    0x000000000000240a      0x782 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
- .debug_line    0x0000000000002b8c     0x194d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
- .debug_line    0x00000000000044d9      0xb09 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- .debug_line    0x0000000000004fe2      0x201 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj
- .debug_line    0x00000000000051e3      0xfd5 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
- .debug_line    0x00000000000061b8      0x841 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
- .debug_line    0x00000000000069f9      0x85e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
- .debug_line    0x0000000000007257      0x9f6 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
- .debug_line    0x0000000000007c4d      0xe8f CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- .debug_line    0x0000000000008adc      0x544 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
- .debug_line    0x0000000000009020      0x3f3 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
- .debug_line    0x0000000000009413      0x278 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
- .debug_line    0x000000000000968b     0x1178 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- .debug_line    0x000000000000a803      0x15d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
- .debug_line    0x000000000000a960      0x1ea CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
- .debug_line    0x000000000000ab4a      0x2e6 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
- .debug_line    0x000000000000ae30      0x43b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
- .debug_line    0x000000000000b26b      0x304 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
- .debug_line    0x000000000000b56f      0x6b1 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
- .debug_line    0x000000000000bc20       0xad CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
- .debug_line    0x000000000000bccd      0x3f1 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
- .debug_line    0x000000000000c0be      0x2f6 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
- .debug_line    0x000000000000c3b4      0x1dd CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
- .debug_line    0x000000000000c591       0xd7 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
- .debug_line    0x000000000000c668       0xe8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
- .debug_line    0x000000000000c750      0x18a CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
- .debug_line    0x000000000000c8da      0xd88 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- .debug_line    0x000000000000d662      0x880 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
- .debug_line    0x000000000000dee2      0xd2c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
- .debug_line    0x000000000000ec0e      0x2ee CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
- .debug_line    0x000000000000eefc       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
- .debug_line    0x000000000000ef5c      0x172 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-strlen-stub.o)
+.debug_line     0x0000000000000000     0xf0d6
+ .debug_line    0x0000000000000000      0x569 CMakeFiles/AudioTrans.dir/AudioTrans.cpp.obj
+ .debug_line    0x0000000000000569      0xa39 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+ .debug_line    0x0000000000000fa2      0x9fa CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+ .debug_line    0x000000000000199c      0x42b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+ .debug_line    0x0000000000001dc7      0x224 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+ .debug_line    0x0000000000001feb      0x427 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+ .debug_line    0x0000000000002412      0x782 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
+ .debug_line    0x0000000000002b94     0x194d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+ .debug_line    0x00000000000044e1      0xb09 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+ .debug_line    0x0000000000004fea      0x201 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj
+ .debug_line    0x00000000000051eb      0xfd5 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
+ .debug_line    0x00000000000061c0      0x841 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+ .debug_line    0x0000000000006a01      0x85e CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+ .debug_line    0x000000000000725f      0x9f6 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+ .debug_line    0x0000000000007c55      0xe8f CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+ .debug_line    0x0000000000008ae4      0x544 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+ .debug_line    0x0000000000009028      0x3f3 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+ .debug_line    0x000000000000941b      0x278 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+ .debug_line    0x0000000000009693     0x1178 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+ .debug_line    0x000000000000a80b      0x15d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
+ .debug_line    0x000000000000a968      0x1ea CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+ .debug_line    0x000000000000ab52      0x2e6 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+ .debug_line    0x000000000000ae38      0x43b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
+ .debug_line    0x000000000000b273      0x304 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+ .debug_line    0x000000000000b577      0x6b1 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+ .debug_line    0x000000000000bc28       0xad CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+ .debug_line    0x000000000000bcd5      0x3f1 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
+ .debug_line    0x000000000000c0c6      0x2f6 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+ .debug_line    0x000000000000c3bc      0x1dd CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+ .debug_line    0x000000000000c599       0xd7 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+ .debug_line    0x000000000000c670       0xe8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
+ .debug_line    0x000000000000c758      0x18a CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+ .debug_line    0x000000000000c8e2      0xd88 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+ .debug_line    0x000000000000d66a      0x880 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+ .debug_line    0x000000000000deea      0xd2c CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
+ .debug_line    0x000000000000ec16      0x2ee CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+ .debug_line    0x000000000000ef04       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x000000000000ef64      0x172 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-strlen-stub.o)
 
-.debug_str      0x0000000000000000     0x3e81
- .debug_str     0x0000000000000000      0x6a2 CMakeFiles/AudioTrans.dir/AudioTrans.cpp.obj
-                                        0x738 (size before relaxing)
- .debug_str     0x00000000000006a2      0x2c6 CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
-                                        0x73e (size before relaxing)
- .debug_str     0x0000000000000968      0x46f CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
-                                        0x8a9 (size before relaxing)
- .debug_str     0x0000000000000dd7      0x1d8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
-                                        0x38c (size before relaxing)
- .debug_str     0x0000000000000faf       0x97 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
-                                        0x248 (size before relaxing)
- .debug_str     0x0000000000001046      0x102 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
-                                        0x373 (size before relaxing)
- .debug_str     0x0000000000001148      0x2f4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
-                                        0x55e (size before relaxing)
- .debug_str     0x000000000000143c      0x723 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
-                                        0xb9f (size before relaxing)
- .debug_str     0x0000000000001b5f      0x198 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
-                                        0x6a0 (size before relaxing)
- .debug_str     0x0000000000001cf7       0x52 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj
-                                        0x233 (size before relaxing)
- .debug_str     0x0000000000001d49      0x17b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
-                                        0x5d9 (size before relaxing)
- .debug_str     0x0000000000001ec4      0x102 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
-                                        0x427 (size before relaxing)
- .debug_str     0x0000000000001fc6      0x22a CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
-                                        0x640 (size before relaxing)
- .debug_str     0x00000000000021f0      0x271 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
-                                        0x688 (size before relaxing)
- .debug_str     0x0000000000002461      0x307 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
-                                        0x6de (size before relaxing)
- .debug_str     0x0000000000002768       0xa5 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
-                                        0x301 (size before relaxing)
- .debug_str     0x000000000000280d      0x137 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
-                                        0x35f (size before relaxing)
- .debug_str     0x0000000000002944       0x81 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
-                                        0x245 (size before relaxing)
- .debug_str     0x00000000000029c5      0x283 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
-                                        0x4a6 (size before relaxing)
- .debug_str     0x0000000000002c48       0x69 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
-                                         0xac (size before relaxing)
- .debug_str     0x0000000000002cb1       0xda CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
-                                        0x275 (size before relaxing)
- .debug_str     0x0000000000002d8b       0x57 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
-                                         0xa6 (size before relaxing)
- .debug_str     0x0000000000002de2       0x5b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
-                                         0xaa (size before relaxing)
- .debug_str     0x0000000000002e3d       0xb3 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
-                                        0x2aa (size before relaxing)
- .debug_str     0x0000000000002ef0       0x61 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+.debug_str      0x0000000000000000     0x3e8d
+ .debug_str     0x0000000000000000      0x6aa CMakeFiles/AudioTrans.dir/AudioTrans.cpp.obj
+                                        0x740 (size before relaxing)
+ .debug_str     0x00000000000006aa      0x2ca CMakeFiles/AudioTrans.dir/NRF24.cpp.obj
+                                        0x746 (size before relaxing)
+ .debug_str     0x0000000000000974      0x46f CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
+                                        0x8ad (size before relaxing)
+ .debug_str     0x0000000000000de3      0x1d8 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
+                                        0x390 (size before relaxing)
+ .debug_str     0x0000000000000fbb       0x97 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
+                                        0x24c (size before relaxing)
+ .debug_str     0x0000000000001052      0x102 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
+                                        0x377 (size before relaxing)
+ .debug_str     0x0000000000001154      0x2f4 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/uart.c.obj
+                                        0x562 (size before relaxing)
+ .debug_str     0x0000000000001448      0x723 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_time/time.c.obj
+                                        0xba3 (size before relaxing)
+ .debug_str     0x0000000000001b6b      0x198 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
+                                        0x6a4 (size before relaxing)
+ .debug_str     0x0000000000001d03       0x52 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/lock_core.c.obj
+                                        0x237 (size before relaxing)
+ .debug_str     0x0000000000001d55      0x17b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/mutex.c.obj
+                                        0x5dd (size before relaxing)
+ .debug_str     0x0000000000001ed0      0x102 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_util/pheap.c.obj
+                                        0x42b (size before relaxing)
+ .debug_str     0x0000000000001fd2      0x22a CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
+                                        0x644 (size before relaxing)
+ .debug_str     0x00000000000021fc      0x271 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
+                                        0x68c (size before relaxing)
+ .debug_str     0x000000000000246d      0x307 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
+                                        0x6e2 (size before relaxing)
+ .debug_str     0x0000000000002774       0xa5 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
+                                        0x305 (size before relaxing)
+ .debug_str     0x0000000000002819      0x137 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_watchdog/watchdog.c.obj
+                                        0x363 (size before relaxing)
+ .debug_str     0x0000000000002950       0x81 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_xosc/xosc.c.obj
+                                        0x249 (size before relaxing)
+ .debug_str     0x00000000000029d1      0x283 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
+                                        0x4aa (size before relaxing)
+ .debug_str     0x0000000000002c54       0x69 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
                                          0xb0 (size before relaxing)
- .debug_str     0x0000000000002f51       0x66 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
-                                         0xb5 (size before relaxing)
- .debug_str     0x0000000000002fb7       0x59 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
-                                         0xa8 (size before relaxing)
- .debug_str     0x0000000000003010       0x97 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
-                                        0x2c6 (size before relaxing)
- .debug_str     0x00000000000030a7       0x5f CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+ .debug_str     0x0000000000002cbd       0xda CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
+                                        0x279 (size before relaxing)
+ .debug_str     0x0000000000002d97       0x57 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
+                                         0xaa (size before relaxing)
+ .debug_str     0x0000000000002dee       0x5b CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
                                          0xae (size before relaxing)
- .debug_str     0x0000000000003106       0x5d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+ .debug_str     0x0000000000002e49       0xb3 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_init_rom.c.obj
+                                        0x2ae (size before relaxing)
+ .debug_str     0x0000000000002efc       0x61 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
+                                         0xb4 (size before relaxing)
+ .debug_str     0x0000000000002f5d       0x66 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
+                                         0xb9 (size before relaxing)
+ .debug_str     0x0000000000002fc3       0x59 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
                                          0xac (size before relaxing)
- .debug_str     0x0000000000003163       0x5a CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
-                                         0xa9 (size before relaxing)
- .debug_str     0x00000000000031bd      0x289 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
-                                        0x42e (size before relaxing)
- .debug_str     0x0000000000003446      0x345 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
-                                        0x7a6 (size before relaxing)
- .debug_str     0x000000000000378b      0x2cc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
-                                        0x712 (size before relaxing)
- .debug_str     0x0000000000003a57      0x215 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
-                                        0x597 (size before relaxing)
- .debug_str     0x0000000000003c6c       0x53 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
-                                        0x291 (size before relaxing)
- .debug_str     0x0000000000003cbf       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
- .debug_str     0x0000000000003d65      0x11c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-strlen-stub.o)
+ .debug_str     0x000000000000301c       0x97 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
+                                        0x2ca (size before relaxing)
+ .debug_str     0x00000000000030b3       0x5f CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj
+                                         0xb2 (size before relaxing)
+ .debug_str     0x0000000000003112       0x5d CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj
+                                         0xb0 (size before relaxing)
+ .debug_str     0x000000000000316f       0x5a CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj
+                                         0xad (size before relaxing)
+ .debug_str     0x00000000000031c9      0x289 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
+                                        0x432 (size before relaxing)
+ .debug_str     0x0000000000003452      0x345 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
+                                        0x7aa (size before relaxing)
+ .debug_str     0x0000000000003797      0x2cc CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj
+                                        0x716 (size before relaxing)
+ .debug_str     0x0000000000003a63      0x215 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_spi/spi.c.obj
+                                        0x59b (size before relaxing)
+ .debug_str     0x0000000000003c78       0x53 CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_adc/adc.c.obj
+                                        0x295 (size before relaxing)
+ .debug_str     0x0000000000003ccb       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_str     0x0000000000003d71      0x11c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg.a(lib_a-strlen-stub.o)
                                         0x1c5 (size before relaxing)
 
 .debug_frame    0x0000000000000000     0x1880

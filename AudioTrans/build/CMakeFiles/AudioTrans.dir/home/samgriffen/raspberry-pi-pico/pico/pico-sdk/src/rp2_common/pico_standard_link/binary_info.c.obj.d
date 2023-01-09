@@ -14,9 +14,9 @@ CMakeFiles/AudioTrans.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp
  /usr/include/newlib/sys/config.h /usr/include/newlib/machine/ieeefp.h \
  /usr/include/newlib/sys/features.h \
  /usr/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
- /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans/build/generated/pico_base/pico/version.h \
+ /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans/build/generated/pico_base/pico/version.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/common/pico_base/include/pico/config.h \
- /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans/build/generated/pico_base/pico/config_autogen.h \
+ /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans/build/generated/pico_base/pico/config_autogen.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/boards/include/boards/pico.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis/include/cmsis/rename_exceptions.h \
  /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h \

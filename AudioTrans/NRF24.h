@@ -19,7 +19,7 @@
 
 #define FIFO_STATUS 0x17
 
-#define SPI_BAUD 921600
+#define SPI_BAUD 1200000
 
 class NRF24
 {

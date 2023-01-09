@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans/build"
+			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans/build"
 		},
 		{
 			"name" : "AudioTrans_IS_TOP_LEVEL",
@@ -35,7 +35,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans"
+			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans"
 		},
 		{
 			"name" : "CMAKE_ADDR2LINE",
@@ -216,10 +216,6 @@
 				{
 					"name" : "HELPSTRING",
 					"value" : "No help, variable specified on the command line."
-				},
-				{
-					"name" : "STRINGS",
-					"value" : "Debug;Release;MinSizeRel;RelWithDebInfo"
 				}
 			],
 			"type" : "STRING",
@@ -235,7 +231,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans/build"
+			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -335,10 +331,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/bin/arm-none-eabi-g++"
 		},
 		{
@@ -463,10 +459,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "/usr/bin/arm-none-eabi-gcc"
 		},
 		{
@@ -694,10 +690,6 @@
 			"properties" : 
 			[
 				{
-					"name" : "ADVANCED",
-					"value" : "1"
-				},
-				{
 					"name" : "HELPSTRING",
 					"value" : "No help, variable specified on the command line."
 				}
@@ -775,7 +767,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans"
+			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1511,7 +1503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : " /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs"
+			"value" : " /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/cmsis /home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs"
 		},
 		{
 			"name" : "PICO_DOXYGEN_PATHS",
@@ -1739,7 +1731,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans/build/pico-sdk"
+			"value" : "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans/build/pico-sdk"
 		},
 		{
 			"name" : "pico_sdk_IS_TOP_LEVEL",

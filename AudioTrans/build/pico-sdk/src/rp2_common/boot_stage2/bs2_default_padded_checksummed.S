@@ -1,4 +1,4 @@
-// Padded and checksummed version of: /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioTrans/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioTrans/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb
