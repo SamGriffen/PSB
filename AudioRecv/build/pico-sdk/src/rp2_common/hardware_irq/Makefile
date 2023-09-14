@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv
+CMAKE_SOURCE_DIR = /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build
+CMAKE_BINARY_DIR = /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,14 +87,14 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/pico-sdk/src/rp2_common/hardware_irq//CMakeFiles/progress.marks
-	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pico-sdk/src/rp2_common/hardware_irq/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles 0
+	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build && $(CMAKE_COMMAND) -E cmake_progress_start /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/pico-sdk/src/rp2_common/hardware_irq//CMakeFiles/progress.marks
+	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pico-sdk/src/rp2_common/hardware_irq/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pico-sdk/src/rp2_common/hardware_irq/clean
+	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pico-sdk/src/rp2_common/hardware_irq/clean
 .PHONY : clean
 
 # The main clean target
@@ -103,17 +103,17 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pico-sdk/src/rp2_common/hardware_irq/preinstall
+	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pico-sdk/src/rp2_common/hardware_irq/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pico-sdk/src/rp2_common/hardware_irq/preinstall
+	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 pico-sdk/src/rp2_common/hardware_irq/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Help Target
@@ -135,6 +135,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

@@ -8,23 +8,23 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_ASM
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
-  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_divider/divider.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_divider/divider.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_float/float_v1_rom_shim.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/mem_ops_aeabi.S.obj"
+  "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S" "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/build/CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/crt0.S.obj"
   )
 set(CMAKE_ASM_COMPILER_ID "GNU")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_ASM
-  "CFG_TUSB_DEBUG=0"
+  "CFG_TUSB_DEBUG=1"
   "CFG_TUSB_MCU=OPT_MCU_RP2040"
   "CFG_TUSB_OS=OPT_OS_PICO"
   "LIB_PICO_BIT_OPS=1"
@@ -60,7 +60,7 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
   "LIB_PICO_UTIL=1"
   "PICO_BOARD=\"pico\""
   "PICO_BUILD=1"
-  "PICO_CMAKE_BUILD_TYPE=\"Release\""
+  "PICO_CMAKE_BUILD_TYPE=\"Debug\""
   "PICO_COPY_TO_RAM=0"
   "PICO_CXX_ENABLE_EXCEPTIONS=0"
   "PICO_NO_FLASH=0"
@@ -183,8 +183,8 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c" "CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj" "gcc" "CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj.d"
   "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c" "CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj" "gcc" "CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdlib/stdlib.c.obj.d"
   "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c" "CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj" "gcc" "CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj.d"
-  "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/AudioRecv.cpp" "CMakeFiles/AudioRecv.dir/AudioRecv.cpp.obj" "gcc" "CMakeFiles/AudioRecv.dir/AudioRecv.cpp.obj.d"
-  "/home/samgriffen/raspberry-pi-pico/pico-workspace/AudioRecv/NRF24.cpp" "CMakeFiles/AudioRecv.dir/NRF24.cpp.obj" "gcc" "CMakeFiles/AudioRecv.dir/NRF24.cpp.obj.d"
+  "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/AudioRecv.cpp" "CMakeFiles/AudioRecv.dir/AudioRecv.cpp.obj" "gcc" "CMakeFiles/AudioRecv.dir/AudioRecv.cpp.obj.d"
+  "/home/samgriffen/raspberry-pi-pico/pico-workspace/PSB/AudioRecv/NRF24.cpp" "CMakeFiles/AudioRecv.dir/NRF24.cpp.obj" "gcc" "CMakeFiles/AudioRecv.dir/NRF24.cpp.obj.d"
   "/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp" "CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj" "gcc" "CMakeFiles/AudioRecv.dir/home/samgriffen/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj.d"
   )
 
